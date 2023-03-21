@@ -22,6 +22,7 @@ What's new:
  - Experimental line darkening and line thinning algorithm. *(For perceptual quality. We perceive thinner/darker lines as perceptually higher quality, even if it might not be the case.)*
  
 **[Installation Instructions for GLSL/MPV](GLSL_Instructions.md)**  
+**[Installation Instructions for GLSL/MPV (v3.0)](GLSL_Instructions_3.0.md)**  
 
 [More information about each shader](https://github.com/bloc97/Anime4K/wiki).
 
